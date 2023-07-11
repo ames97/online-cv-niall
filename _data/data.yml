@@ -45,12 +45,11 @@ experiences:
         company: Business Data Partners, Manchester
         details: |
             - Served as lead analyst on a customer outreach campaign for a big 4 bank, focused on repatriating safety deposit items to customers following the closure of this service
-            - Leveraged SQL and SAS to implement fuzzy matching techniques for manually collated data, ifentify customers with mistmatched banking products and facilitate insights 
-            into deposit strategy
+            - Leveraged SQL and SAS to identify customers with mismatched banking products, facilitate insights into deposit strategies and implement fuzzy 
+            matching techniques for manually collated safety deposit data
             - Developed customer segmentation models using Python to analyse demographics and account behavior, effectively identifying opportunities for cross-selling new products 
-            to retail banking customers.
-            - Utilised Tableau to construct an interactive dashboard for senior stakeholders to track the repatriation status of safety deposit items accross tranches throughout the lifecycle 
-            of the project
+            to retail banking customers
+            - Utilised Tableau to construct an interactive dashboard for senior stakeholders, facilitating the tracking of safety deposit item repatriation across project tranches
           
       - role: Higher Statistical Officer 
         time: Sep 2020 - May 2022
