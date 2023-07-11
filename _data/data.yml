@@ -12,6 +12,7 @@ sidebar:
     # Sidebar links
     email: ames.hanna@gmail.com
     phone: + 44 7494 990030
+    location: London, UK
 
     interests:
       title: Certifications
@@ -37,33 +38,32 @@ sidebar:
           level: Intermediate
 
 experiences:
-    title: Work History
+    title: Employment History
     info:
-      - role: Consultant
+      - role: Data Analytics Consultant
         time: May 2022 - Present
         company: Business Data Partners, Manchester
         details: |
-            - Led a successful customer outreach project as the lead analyst and data coordinator for a Big 4 bank, effectively repatriating thousands of 
-            historical safe deposit items prior to the closure of the service
-            - Utilised advanced data analysis techniques with SQL and SAS to create customer personas and identify opportunities for cross-selling by analysing 
-            behaviour patterns and account trends 
-            - Implemented fuzzy matching techniques to join safe deposit items to accounts in manually collated data 
-            - Coordinated and executed successful company social events as a regional social representative, including planning, budget management, 
-            vendor selection and on-site event management 
-            
+            - Served as lead analyst on a customer outreach campaign for a big 4 bank, focused on repatriating safety deposit items to customers following the closure of this service
+            - Leveraged SQL and SAS to implement fuzzy matching techniques for manually collated data, ifentify customers with mistmatched banking products and facilitate insights 
+            into deposit strategy
+            - Developed customer segmentation models using Python to analyse demographics and account behavior, effectively identifying opportunities for cross-selling new products 
+            to retail banking customers.
+            - Utilised Tableau to construct an interactive dashboard for senior stakeholders to track the repatriation status of safety deposit items accross tranches throughout the lifecycle 
+            of the project
+          
       - role: Higher Statistical Officer 
         time: Sep 2020 - May 2022
         company: HM Revenue & Customs, Manchester
         details: |
-            - Designed large-scale customer compliance trials to tackle tax fraud through the implementation of digital prompts on tax returns, 
-                A/B trials and messaging on third-party platforms
+            - Designed and implemented large-scale customer compliance trials, utilising statistical techniques like A/B trials and time series analysis, 
+                to combat tax fraud through mailing campaigns, digital prompts on tax returns, and messaging on third-party platforms.
             - Presented and disseminated analytical results to senior leadership boards, successfully scoring
                 compliance yield claims of up to £67 million
-            - Constructed the error and fraud estimates for the Self Employed Income Support Scheme using
-                proxies derived from cross-team COVID stats, which were used by policy makers to aid
-                decision making on grant extension strategies
-            - Developed and led upskilling programs on evaluation techniques for internal customers across
-                the business to manage analytical resource demand on my directorate
+            - Constructed the error and fraud estimates for the Self Employed Income Support Scheme during COVID using proxies 
+            derived from cross-team stats, which informed decision-making on grant extension strategies by policy makers.
+            - Developed and led upskilling programs on statistical evaluation techniques for senior stakeholders across
+                the directorate
             - Promoted to Higher Statistical Officer 2 in December 2021
                 
       - role: Assistant Director - Data Specialist
