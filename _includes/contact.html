@@ -9,13 +9,13 @@
 
     {% if sidebar.phone %}
     <li class="phone"><i class="fas fa-phone"></i>
-      
+       <a href="tel:{{ sidebar.phone }}">{{ sidebar.phone }}</a>
     </li>
     {% endif %}
     
  {% if sidebar.location %}
     <li class="location"><i class="fas fa-map-marker"></i>
-      <a href="tel:{{ sidebar.location }}">{{ sidebar.location }}</a>
+   
     </li>
 {% endif %}
     
