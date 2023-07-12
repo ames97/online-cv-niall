@@ -6,7 +6,7 @@ sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
+    # Profile information 
     name: Hanna Ames
     
     # Sidebar links
@@ -36,7 +36,16 @@ sidebar:
 
         - idiom: Spanish
           level: Intermediate
-
+career-profile:
+    title: Career Profile
+    summary: |
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
+      
 experiences:
     title: Employment History
     info:
@@ -44,12 +53,14 @@ experiences:
         time: May 2022 - Present
         company: Business Data Partners, London
         details: |
-            - Served as lead analyst on a customer outreach campaign for a big 4 bank, focused on repatriating safety deposit items to customers following the closure of this service
-            - Leveraged SQL and SAS to identify customers with mismatched banking products, facilitate insights into deposit strategies and implement fuzzy 
-            matching techniques for manually collated safety deposit data
+            - Served as lead analyst on a customer outreach campaign for a big 4 bank, resulting in the successful repatriation of safety deposit items to customers 
+            following the closure of this service
+            - Leveraged SQL to identify customers with mismatched banking products and measure the success of new customer deposit strategies   
+            - Implemented fuzzy matching techniques for manually collated safety deposit data using SAS, resulting in the successful repatriation of items to their owners
             - Developed customer segmentation models using Python to analyse demographics and account behavior, effectively identifying opportunities for cross-selling new products 
             to retail banking customers
-            - Utilised Tableau to construct an interactive dashboard for senior stakeholders, facilitating the tracking of safety deposit item repatriation across project tranches
+            - Utilised Tableau to construct an interactive dashboard which allowed senior stakeholders to track the repatriation status of safety deposit items 
+            across all project tranches
           
       - role: Higher Statistical Officer 
         time: Sep 2020 - May 2022
@@ -86,7 +97,7 @@ experiences:
         time: Aug 2018 - Mar 2019
         company: Bureau van Dijk - Moody's Analytics, Manchester
         details: |
-          - Assisted in the maintenance of a database specialising in foreign direct investment
+          - Contributed to the enhancement and maintenance of a database specialising in foreign direct investment
             transactions
           - Developed a Swedish, Norwegian and Danish language keyword feed to increase the volume of
             Nordic investment information for Scandinavian clients
