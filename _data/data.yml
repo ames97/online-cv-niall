@@ -4,30 +4,15 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
+    name: Hanna Ames
+ 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: ames.hanna@gmail.com.com
+    phone: 07494 990030
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
@@ -36,23 +21,23 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: Swedish
+          level: Native
 
         - idiom: Spanish
-          level: Professional
+          level: Intermediate
 
     interests:
-      title: Interests
+      title: Certifications
       info:
-        - item: Climbing
-          link:
+        - item: SAS Certified Specialist - Base Programming Using SAS 9.4
+          link: https://www.credly.com/badges/28ba769c-dd00-4800-8eb0-36cf65a49622/linked_in_profile
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+        - item: Snowflake Hands on Essentials - Data Warehouse
+          link: https://www.credly.com/badges/6f8c2ec4-cc01-4f93-b7a2-8f1aaf2513c7/linked_in_profile
+          
+        - item: dbt Fundamentals
+          link: https://credentials.getdbt.com/cf0222ca-8e03-4c86-b492-75e9d2e8fbb8
 
 career-profile:
     title: Career Profile
