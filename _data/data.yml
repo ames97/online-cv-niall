@@ -64,8 +64,8 @@ experiences:
         time: May 2022 - Present
         company: Business Data Partners, Manchester
         details: |
-            - Led end-to-end data transformation on a customer outreach campaign for a big 4 bank, responsible for sourcing and amalgamation of mailing data. This 
-            initiative resulted in the successful repatriation of safety deposit items to customers following the closure of this service
+            - Led the end-to-end data transformation of a complex customer outreach campaign for a big 4 bank, effectively sourcing and amalgamating mailing data from diverse sources within tight timeframes.
+            This initiative resulted in the successful repatriation of safety deposit items to customers following the closure of this service
             - Leveraged data sourcing techniques in SQL to identify customers with incorrect banking products and to measure the success of initiatives aiming to increase
             customer deposit rates  
             - Successfully identified owners of historical safety deposit items by implementing fuzzy matching techniques in SAS to join customer information with imperfect, 
