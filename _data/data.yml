@@ -70,7 +70,7 @@ experiences:
             customer deposit rates  
             - Successfully identified owners of historical safety deposit items by implementing fuzzy matching techniques in SAS to join customer information with imperfect, 
             manually collated data 
-            - Developed customer segmentation models using Python to analyse demographics and account behavior, effectively identifying opportunities for cross-selling new products 
+            - Developed customer segmentation models using Python to analyse demographics and account behaviour, effectively identifying opportunities for cross-selling new products 
             to retail banking customers
             - Utilised Tableau to construct an interactive dashboard which allowed senior stakeholders to track the repatriation status of safety deposit items 
             across all project tranches
