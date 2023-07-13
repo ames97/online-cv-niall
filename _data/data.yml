@@ -43,8 +43,8 @@ career-profile:
     title: Profile
     summary: |
         Experienced data analyst having most recently specialised in customer analytics within the banking industry, 
-        with a focus on outreach campaigns, segmentation analysis and product performance analysis. Holds prior experience 
-        working within the public sector, designing statistical trials for tax fraud prevention. Possesses excellent team and 
+        with a focus on outreach campaigns, segmentation and product performance analysis. Holds prior experience 
+        working within the public sector, designing statistical trials for tax fraud prevention. Possesses excellent team leading and 
         stakeholder management skills, along with expertise in delivering confident presentations. Demonstrates a proactive 
         attitude towards learning and adopting new technologies and skills.
 education:
@@ -64,13 +64,13 @@ experiences:
         time: May 2022 - Present
         company: Business Data Partners, Manchester
         details: |
-            - Served as lead analyst on a customer outreach campaign for a big 4 bank, resulting in the successful repatriation of safety deposit items to customers 
-            following the closure of this service
-            - Leveraged data sourcing techniques in SQL to identify customers with incorrect banking products and measure the success of initiatives aiming to increase
+            - Led end-to-end data transformation on a customer outreach campaign for a big 4 bank, responsible for sourcing and amalgamation of mailing data. This 
+            initiative resulted in the successful repatriation of safety deposit items to customers following the closure of this service
+            - Leveraged data sourcing techniques in SQL to identify customers with incorrect banking products and to measure the success of initiatives aiming to increase
             customer deposit rates  
             - Successfully identified owners of historical safety deposit items by implementing fuzzy matching techniques in SAS to join customer information with imperfect, 
             manually collated data 
-            - Developed customer segmentation models using Python to analyse demographics and account behaviour, effectively identifying opportunities for cross-selling new products 
+            - Developed customer segmentation models by employing K-means clustering techniques in Python to analyse demographics and account behaviour, effectively identifying opportunities for cross-selling new products 
             to retail banking customers
             - Utilised Tableau to construct an interactive dashboard which allowed senior stakeholders to track the repatriation status of safety deposit items 
             across all project tranches
