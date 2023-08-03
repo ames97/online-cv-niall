@@ -22,7 +22,7 @@ sidebar:
           link: https://www.credly.com/badges/28ba769c-dd00-4800-8eb0-36cf65a49622/linked_in_profile
 
         - item: Tableau Desktop Specialist
-          link:  
+          link: https://www.credly.com/badges/338c81a6-f2b2-487d-961e-ab58fccaa22e/public_url
           
         - item: Snowflake Hands on Essentials - Data Warehouse
           link: https://www.credly.com/badges/6f8c2ec4-cc01-4f93-b7a2-8f1aaf2513c7/linked_in_profile
@@ -45,11 +45,12 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-        Experienced data analyst having most recently specialised in customer analytics within the banking industry, 
-        with a focus on outreach campaigns, segmentation and product performance analysis. Holds prior experience 
-        working within the public sector, designing and evaluating statistical trials for tax fraud prevention. Possesses excellent team leading and 
-        stakeholder management skills, along with expertise in delivering confident presentations. Demonstrates a proactive 
-        attitude towards learning and adopting new technologies and skills.
+        Experienced data specialist, recently focusing on customer analytics within the banking industry, 
+        with an emphasis on outreach campaigns and product performance analysis. Proficient in SQL, SAS, Python and Tableau,
+        with a strong background in statistical analysis and A/B trial design. Demonstrates excellent team leadership and stakeholder 
+        management abilities, along with expertise in delivering confident presentations to non-technical stakeholders. Shows a 
+        proactive approach to learning and using new technologies and skills.
+        
 education:
     title: Education
     info:
