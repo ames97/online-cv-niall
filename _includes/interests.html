@@ -5,6 +5,15 @@
   <h2 class="container-block-title">
     {{ interests.title }}
   </h2>
+   
+  <ul class="list-unstyled interests-list">
+    {% for interest in interests.info %}
+    
+     <li>{{ interest.item }}</li>
+  
+  <h2 class="container-block-title">
+    {{ interests.title2 }}
+  </h2>
 
   <ul class="list-unstyled interests-list">
     {% for interest in interests.info %}
