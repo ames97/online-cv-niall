@@ -7,11 +7,13 @@
   </h2>
    
   <ul class="list-unstyled interests-list">
- 
-
-      <li>{{ interest2.item }}</li>
-   
-     
+    {% for interest in interests.info %}
+      {% if interest.link %}
+      <li><a href="{{ interest.link }}">{{ interest.item }}</a></li>
+      {% else %}
+      <li>{{ interest.item }}</li>
+      {% endif %}
+    {% endfor %}
   </ul>
 
   <h2 class="container-block-title">
@@ -19,14 +21,12 @@
   </h2>
 
   <ul class="list-unstyled interests-list">
-    {% for interest in interests.info %}
-
+    {% for interest in interests.info2 %}
       {% if interest.link %}
       <li><a href="{{ interest.link }}">{{ interest.item }}</a></li>
       {% else %}
       <li>{{ interest.item }}</li>
       {% endif %}
-
     {% endfor %}
   </ul>
 
