@@ -15,12 +15,13 @@ sidebar:
     phone: 07494 990030
     location: London, UK
     
-    projects:
-    title: Skills
-    assignments:
-      - title: SQL
-  
     interests:
+      title: Skills
+      info:
+        - item: SQL
+         
+
+    
       title: Certifications
       info:
         - item: SAS Certified Specialist - Base Programming Using SAS 9.4
