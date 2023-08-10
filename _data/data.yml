@@ -18,7 +18,9 @@ sidebar:
     skills:
  
       title: Skills
-      info: SQL
+      info: 
+        - item: SQL
+      
       
     interests:
  
