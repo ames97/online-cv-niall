@@ -14,7 +14,12 @@ sidebar:
     email: ames.hanna@gmail.com
     phone: 07494 990030
     location: London, UK
-    
+
+    skills:
+    title: Skills &amp; Proficiency
+     toolset:
+      - name: SQL
+      
     interests:
  
       title: Certifications
