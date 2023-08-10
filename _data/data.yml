@@ -21,7 +21,7 @@ sidebar:
       title: Skills
       info:
         - item: SQL
-        - item: Python (NumPy, Pandas, Matplotlib, Seaborn)
+        - item: Python (Pandas, Seaborn)
         - item: SAS
         - item: Tableau
         - item: Azure 
