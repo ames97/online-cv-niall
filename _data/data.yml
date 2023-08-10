@@ -42,14 +42,6 @@ sidebar:
         - idiom: Spanish
           level: Intermediate
 
-career-profile:
-    title: Profile
-    summary: |
-        Experienced data specialist, recently focusing on customer analytics within the banking industry, 
-        with an emphasis on outreach campaigns and product performance analysis. Proficient in SQL, SAS, Python and Tableau,
-        with a strong background in statistical analysis and A/B trial design. Demonstrates excellent team leadership and stakeholder 
-        management abilities, along with expertise in delivering confident presentations to non-technical stakeholders. Shows a 
-        proactive approach to learning and using new technologies and skills.
         
 education:
     title: Education
