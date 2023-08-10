@@ -14,16 +14,7 @@ sidebar:
     email: ames.hanna@gmail.com
     phone: 07494 990030
     location: London, UK
-    
-     interests:
-      title: Skills
-      info:
-          - item: SQL
-          - item: SAS
-          - item: Python
-          - item: Tableau
-          - item: Azure 
-          - item: Excel
+     
     interests:
       title: Certifications
       info:
