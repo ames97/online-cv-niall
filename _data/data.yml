@@ -21,6 +21,11 @@ sidebar:
       title: Skills
       info:
         - item: SQL
+        - item: Python
+        - item: SAS
+        - item: Tableau
+        - item: Azure 
+        - item: Excel
         
       title2: Certifications
       info2:
