@@ -8,9 +8,16 @@
    
   <ul class="list-unstyled interests-list">
     {% for interest in interests.info %}
-    
-     <li>{{ interest.item }}</li>
-  
+
+      {% if interest.link %}
+      <li><a href="{{ interest.link }}">{{ interest.item }}</a></li>
+      {% else %}
+      <li>{{ interest.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
   <h2 class="container-block-title">
     {{ interests.title2 }}
   </h2>
