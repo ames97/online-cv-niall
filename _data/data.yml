@@ -16,6 +16,9 @@ sidebar:
     location: London, UK
     
     interests:
+      title: Skills
+      info:
+       - item: SQL
       title: Certifications
       info:
         - item: SAS Certified Specialist - Base Programming Using SAS 9.4
