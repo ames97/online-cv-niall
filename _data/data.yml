@@ -15,6 +15,15 @@ sidebar:
     phone: 07494 990030
     location: London, UK
     
+     interests:
+      title: Skills
+      info:
+          - item: SQL
+          - item: SAS
+          - item: Python
+          - item: Tableau
+          - item: Azure 
+          - item: Excel
     interests:
       title: Certifications
       info:
@@ -118,26 +127,6 @@ experiences:
             transactions
           - Developed a Swedish, Norwegian and Danish language keyword feed to increase the volume of
             Nordic investment information for Scandinavian clients
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Excel
-        level: 98%
-
-      - name: SQL
-        level: 95%
-
-      - name: SAS
-        level: 90%
-
-      - name: Tableau
-        level: 75%
-
-      - name: Python
-        level: 50%
-
 
 
  
