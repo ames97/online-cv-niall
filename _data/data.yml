@@ -17,8 +17,12 @@ sidebar:
  
       
     interests:
- 
-      title: Certifications
+    
+      title: Skills
+      info:
+        - item: SQL
+        
+      title2: Certifications
       info:
         - item: SAS Certified Specialist - Base Programming Using SAS 9.4
           link: https://www.credly.com/badges/28ba769c-dd00-4800-8eb0-36cf65a49622/linked_in_profile
