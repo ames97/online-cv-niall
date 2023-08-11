@@ -74,9 +74,9 @@ experiences:
         time: May 2022 - Present
         company: Business Data Partners, Manchester
         details: |
-             - Led the data transformation for a major bank's customer outreach campaign, efficiently integrating customer data from various sources on a tight 
+            - Led the data transformation for a major bank's customer outreach campaign, efficiently integrating customer data from various sources on a tight 
              schedule, facilitating the return of safety deposit items to customers after closure of the service
-           - Constructed an interactive dashboard in Tableau to allow senior stakeholders to track the real-time repatriation status of safety deposit items 
+            - Constructed an interactive dashboard in Tableau to allow senior stakeholders to track the real-time repatriation status of safety deposit items 
             across all mailing tranches
             - Leveraged data sourcing techniques in SAS and SQL to identify customers with incorrect banking products and to measure the success of savings intiatives
             - Identified opportunities for cross-selling and introducing new products to retail banking customers by employing K-means clustering techniques in Python to create
