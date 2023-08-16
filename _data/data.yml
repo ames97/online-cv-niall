@@ -8,11 +8,11 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Hanna test
+    name: Niall Madden
  
     # Sidebar links
-    email: ames.hanna@gmail.com
-    phone: 07494 990030
+    email: nialljmadden@gmail.com
+    phone: 07948 989633
     location: London, UK
  
       
@@ -23,42 +23,26 @@ sidebar:
         - item: SQL
         - item: Python (Pandas, Seaborn)
         - item: SAS
-        - item: Tableau
-        - item: Azure 
+        - item: Power BI
         - item: Excel
  
         
       title2: Certifications
       info2:
-        - item: SAS Certified Specialist - Base Programming Using SAS 9.4
-          link: https://www.credly.com/badges/28ba769c-dd00-4800-8eb0-36cf65a49622/linked_in_profile
+        - item: IBM Data Science Professional Certificate
+          link:  
 
-        - item: Tableau Desktop Specialist
-          link: https://www.credly.com/badges/338c81a6-f2b2-487d-961e-ab58fccaa22e/public_url
+        - item: Microsoft Power BI Desktop for Business Intelligence
+          link:  
           
-        - item: Snowflake Hands on Essentials - Data Warehouse
-          link: https://www.credly.com/badges/6f8c2ec4-cc01-4f93-b7a2-8f1aaf2513c7/linked_in_profile
-          
-        - item: dbt Fundamentals
-          link: https://credentials.getdbt.com/cf0222ca-8e03-4c86-b492-75e9d2e8fbb8
-          
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
-
-        - idiom: Swedish
-          level: Native
-
-        - idiom: Spanish
-          level: Intermediate
+        - item: Excel 2016: Advanced Formulas and Functions
+          link:  
 
         
 education:
     title: Education
     info:
-      - degree: BA in Economics
+      - degree: BSc in Economics - First Class Honours
         university: University of Manchester
         time: 2015 - 2018
         details: |
@@ -70,21 +54,18 @@ education:
 experiences:
     title: Employment History
     info:
-      - role: Data Analytics Consultant
-        time: May 2022 - Present
-        company: Business Data Partners, Manchester
+      - role: Operations Specialist
+        time: Aug 2021 - Present
+        company: Bolt, Manchester
         details: |
-            - Led the data transformation for a major bank's customer outreach campaign, efficiently integrating customer data from various sources on a tight 
-             schedule, facilitating the return of safety deposit items to customers after closure of the service
-            - Constructed an interactive dashboard in Tableau to allow senior stakeholders to track the real-time repatriation status of safety deposit items 
-            across all mailing tranches
-            - Leveraged data sourcing techniques in SAS and SQL to identify customers with incorrect banking products and to measure the success of savings intiatives
-            - Identified opportunities for cross-selling and introducing new products to retail banking customers by employing K-means clustering techniques in Python to create
-            segmentation models
+            - Orchestrated the Greater Manchester launch, achieving over 4m trips worth £40m in the first year, and innovated Bolt’s UK airport strategy, projecting an annual value uplift of £300k
+            - Developed a pricing strategy for Newcastle, resulting in a significant increase in trip value and order completion, and represented Bolt in council audits, ensuring regulatory compliance
+            - Implemented a budgeting tool, optimizing campaign spend and reducing inactive fleet by 400+ drivers, while serving as the go-to expert on Bolt’s operational processes
+            - Conducted comprehensive data analysis for supply campaigns and pricing, and spearheaded long-term projects, including new city launches, balancing regular operational tasks
     
-      - role: Higher Statistical Officer
-        time: Sep 2020 - May 2022
-        company: HM Revenue & Customs, Manchester
+      - role: Operations Analyst
+        time: Jan 2021 - Aug 2021
+        company: Bristow & Sutor Group, Manchester
         details: |
             - Developed the Self-Employed Income Support Scheme's error and fraud metrics during COVID by consolidating real-time 
             data from multiple teams and using historical references. This data was later used to guide the Chancellor's decisions on grant extensions.
@@ -96,9 +77,9 @@ experiences:
                 the directorate
             - Promoted to Higher Statistical Officer 2 in December 2021
               
-      - role: Assistant Director - Data Specialist
-        time: Sep 2019 - Sep 2020
-        company: Bureau van Dijk - Moody's Analytics, Manchester
+      - role: Operations Analyst
+        time: Jan 2020 - Jan 2021
+        company: Verastar, Manchester
         details: |
          -  Promoted to a management role where I led a team of five in the development of
             a cross-border intellectual property transactions database
@@ -107,7 +88,7 @@ experiences:
      
       - role: Senior Data Specialist
         time: Mar 2019 - Sep 2019
-        company: Bureau van Dijk - Moody's Analytics, Manchester
+        company: Verastar, Manchester
         details: |
             - Collaborated in the management of the Intellectual Property team and contributed to the development of 
             a patent sale database
