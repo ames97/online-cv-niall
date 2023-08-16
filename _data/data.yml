@@ -25,18 +25,13 @@ sidebar:
         - item: SAS
         - item: Power BI
         - item: Excel
- 
-        
       title2: Certifications
       info2:
-        - item: IBM Data Science Professional Certificate
-          link:  
+        - item: IBM Data Science Professional Certificate  
 
-        - item: Microsoft Power BI Desktop for Business Intelligence
-          link:  
+        - item: Microsoft Power BI Desktop for Business Intelligence 
           
         - item: Excel 2016: Advanced Formulas and Functions
-          link:  
 
         
 education:
