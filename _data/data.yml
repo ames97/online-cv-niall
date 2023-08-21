@@ -21,8 +21,7 @@ sidebar:
       title: Skills
       info:
         - item: SQL
-        - item: Python (Pandas, Seaborn)
-        - item: SAS
+        - item: Looker
         - item: Power BI
         - item: Excel
       title2: Certifications
@@ -61,41 +60,31 @@ experiences:
         time: Jan 2021 - Aug 2021
         company: Bristow & Sutor Group, Manchester
         details: |
-            - Developed the Self-Employed Income Support Scheme's error and fraud metrics during COVID by consolidating real-time 
-            data from multiple teams and using historical references. This data was later used to guide the Chancellor's decisions on grant extensions.
-            - Led the development and execution of large-scale customer test and learn trials, using A/B 
-            testing and time series analysis to successfully measure the impact of outreach campaigns on reducing tax fraud
-            - Presented and disseminated analytical results to senior leadership boards, gaining approval to score
-                compliance yield claims of up to £67 million
-            - Developed and led upskilling initiatives on statistical evaluation techniques for senior stakeholders across
-                the directorate
-            - Promoted to Higher Statistical Officer 2 in December 2021
+            - Championed digital transformation initiatives, modernizing systems and enhancing operational processes.
+            - Extracted and analyzed data to refine collection strategies, streamline processes, and assess performance.
+            - Standardized letter naming for improved tracking and utilized SQL and Excel for A/B test analysis, effectively communicating findings to non-technical stakeholders.
+            - Provided leadership and direction to the Operations Administrator, ensuring efficient task delegation and workflow management.
               
       - role: Operations Analyst
-        time: Jan 2020 - Jan 2021
+        time: June 2020 - Jan 2021
         company: Verastar, Manchester
         details: |
-         -  Promoted to a management role where I led a team of five in the development of
-            a cross-border intellectual property transactions database
-          - Drafted routine technical proposals to address inefficiencies in data input processes
-          - Successfully recruited and trained two new members to support the needs of a growing team
+            -  Led customer satisfaction initiatives and streamlined processes while leveraging data analytics to inform organizational decision-making
+            -  Developed an automated report for VoIP order tracking, established a comprehensive utility meter reading report, and initiated a feedback loop for Continuous Improveme
      
-      - role: Senior Data Specialist
-        time: Mar 2019 - Sep 2019
+      - role: Junior Product Manager/Commercial Analyst
+        time: May 2019 - June 2020
         company: Verastar, Manchester
         details: |
-            - Collaborated in the management of the Intellectual Property team and contributed to the development of 
-            a patent sale database
-            - Organised and led team meetings, while supervising the performance of individual team
-                members
-      - role: Data Specialist
-        time: Aug 2018 - Mar 2019
-        company: Bureau van Dijk - Moody's Analytics, Manchester
+            - Directed projects to enhance customer benefits and commercial value, backed by data-driven performance reviews
+            - Launched the Line Assurance product, generating £3m/year in revenue, and coordinated a broadband migration that saved the company £600k
+      - role: Graduate Business Analyst
+        time: Sep 2018 - May 2019
+        company: Verastar, Manchester
         details: |
-          - Contributed to the enhancement and maintenance of a database specialising in foreign direct investment
-            transactions
-          - Developed a Swedish, Norwegian and Danish language keyword feed to increase the volume of
-            Nordic investment information for Scandinavian clients
+            - Translated business data requests into actionable requirements and coordinated MI analyst workflows
+            - Enhanced requirement gathering through SQL proficiency and developed a productivity report for the Correspondence Team
+            - Participated in a 6-month graduate programme secondment, gaining foundational experience in operations
 
 
  
