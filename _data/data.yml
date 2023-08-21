@@ -14,6 +14,7 @@ sidebar:
     email: nialljmadden@gmail.com
     phone: 07948 989633
     location: London, UK
+    linkedin: https://www.linkedin.com/in/niall-madden-747875152/
  
       
     interests:
@@ -27,10 +28,13 @@ sidebar:
       title2: Certifications
       info2:
         - item: IBM Data Science Professional Certificate  
-
+        - link: https://www.credly.com/badges/69552784-8e41-4a34-8742-5b6828ace001?source=linked_in_profile
+        
         - item: Microsoft Power BI Desktop for Business Intelligence 
-          
+        - link: https://www.udemy.com/certificate/UC-e705d729-4202-4d66-9959-58f1a84cd648/
+        
         - item: Excel 2016 - Advanced Formulas and Functions
+        - link: https://www.linkedin.com/learning/certificates/1dcb13842a4d2582ee76c75371ffc4a48c7726e375d2a8ddb7a79e3ca666f296?trk=share_certificate
         
 education:
     title: Education
@@ -40,8 +44,8 @@ education:
         time: 2015 - 2018
         details: |
             - 3-year programme specialising in the academic application of microeconomic and
-            macroeconomic theory, game theory and advanced econometrics
-            - Refined analytical skills by utilising tools such as SPSS, R and Excel in data handling modules  
+            macroeconomic theory, game theory and advanced econometrics.
+            - Refined stastistical and analytical skills by utilising tools such as SPSS, R and Excel in data handling modules. 
  
       
 experiences:
@@ -51,10 +55,10 @@ experiences:
         time: Aug 2021 - Present
         company: Bolt, Manchester
         details: |
-            - Orchestrated the Greater Manchester launch, achieving over 4m trips worth £40m in the first year, and innovated Bolt’s UK airport strategy, projecting an annual value uplift of £300k
-            - Developed a pricing strategy for Newcastle, resulting in a significant increase in trip value and order completion, and represented Bolt in council audits, ensuring regulatory compliance
-            - Implemented a budgeting tool, optimizing campaign spend and reducing inactive fleet by 400+ drivers, while serving as the go-to expert on Bolt’s operational processes
-            - Conducted comprehensive data analysis for supply campaigns and pricing, and spearheaded long-term projects, including new city launches, balancing regular operational tasks
+            - Orchestrated the Greater Manchester launch, achieving over 4m trips worth £40m in the first year, and innovated Bolt’s UK airport strategy, projecting an annual value uplift of £300k.
+            - Developed a pricing strategy for Newcastle, resulting in a significant increase in trip value and order completion, and represented Bolt in council audits, ensuring regulatory compliance.
+            - Implemented a budgeting tool, optimizing campaign spend and reducing inactive fleet by 400+ drivers, while serving as the go-to expert on Bolt’s operational processes.
+            - Conducted comprehensive data analysis for supply campaigns and pricing, and spearheaded long-term projects, including new city launches, balancing regular operational tasks.
     
       - role: Operations Analyst
         time: Jan 2021 - Aug 2021
@@ -69,22 +73,24 @@ experiences:
         time: June 2020 - Jan 2021
         company: Verastar, Manchester
         details: |
-            -  Led customer satisfaction initiatives and streamlined processes while leveraging data analytics to inform organizational decision-making
-            -  Developed an automated report for VoIP order tracking, established a comprehensive utility meter reading report, and initiated a feedback loop for Continuous Improveme
-     
+            - Led customer satisfaction initiatives and streamlined processes while leveraging data analytics to inform organizational decision-making.
+            - Developed an automated report for VoIP order tracking and initiated a feedback loop to optimize the Continuous Improvement team's efforts.
+            - Demonstrated the efficacy of the SMS trial in reducing customer contact and dissatisfaction and conducted workshops to bolster colleagues' Excel proficiency.
+
       - role: Junior Product Manager/Commercial Analyst
         time: May 2019 - June 2020
         company: Verastar, Manchester
         details: |
-            - Directed projects to enhance customer benefits and commercial value, backed by data-driven performance reviews
-            - Launched the Line Assurance product, generating £3m/year in revenue, and coordinated a broadband migration that saved the company £600k
-      - role: Graduate Business Analyst
+            - Directed projects to enhance customer benefits and commercial value, backed by data-driven performance reviews.
+            - Launched the Line Assurance product, generating £3m/year in revenue, and implemented recommendations improving call bundle margin by 17%.
+            - Managed a broadband migration, saving £600k and enhancing customer experience, and supported the launch of versatile VoIP technology for SMEs.
+      - role: Graduate Analyst
         time: Sep 2018 - May 2019
         company: Verastar, Manchester
         details: |
-            - Translated business data requests into actionable requirements and coordinated MI analyst workflows
-            - Enhanced requirement gathering through SQL proficiency and developed a productivity report for the Correspondence Team
-            - Participated in a 6-month graduate programme secondment, gaining foundational experience in operations
+            - Translated business data requests into actionable requirements and coordinated MI analyst workflows.
+            - Enhanced requirement gathering through SQL proficiency and developed a productivity report for the Correspondence Team.
+            - Participated in a 6-month graduate programme secondment, gaining foundational experience in operations.
 
 
  
