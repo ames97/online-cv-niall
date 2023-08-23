@@ -25,6 +25,7 @@ sidebar:
         - item: Looker
         - item: Power BI
         - item: Excel
+        - item: Python (Intermediate)
       title2: Certifications
       info2:
         - item: IBM Data Science Professional Certificate  
@@ -56,16 +57,17 @@ experiences:
         company: Bolt, Manchester
         details: |
             - Orchestrated the Greater Manchester launch, achieving over 4m trips worth £40m in the first year, and innovated Bolt’s UK airport strategy, projecting an annual value uplift of £300k.
-            - Developed a pricing strategy for Newcastle, resulting in a significant increase in trip value and order completion, and represented Bolt in council audits, ensuring regulatory compliance.
+            - Developed a pricing strategy for Newcastle, resulting in a significant increase in orders and trip value, and represented Bolt in council audits, ensuring regulatory compliance.
             - Implemented a budgeting tool, optimising campaign spend and reducing inactive fleet by 400+ drivers, while serving as the go-to expert on Bolt’s operational processes.
-            - Conducted comprehensive data analysis for supply campaigns and pricing, and spearheaded long-term projects, including new city launches, balancing regular operational tasks.
+            - Built dashboards and conducted comprehensive data analysis for supply campaigns and pricing.
+            - Spearheaded long-term projects, including new city launches whilst balancing regular operational tasks.
     
       - role: Operations Analyst
         time: Jan 2021 - Aug 2021
         company: Bristow & Sutor Group, Manchester
         details: |
             - Championed digital transformation initiatives, modernising systems and enhancing operational processes.
-            - Extracted and analysed data to refine collection strategies, streamline processes, and assess performance.
+            - Extracted and analysed data to refine collection strategies, streamline processes, and assess performance through the creation of comprehensive dashboards.
             - Standardised letter naming for improved tracking and utilised SQL and Excel for A/B test analysis, effectively communicating findings to non-technical stakeholders.
             - Provided leadership and direction to the Operations Administrator, ensuring efficient task delegation and workflow management.
               
